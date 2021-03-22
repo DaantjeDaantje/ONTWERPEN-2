@@ -1,0 +1,7 @@
+merk: Ferrari
+Stoelen: 2
+kleur: rood
+Bouwjaar: 2013
+Brandstof: Super 95
+
+auto: Ferrari 458
