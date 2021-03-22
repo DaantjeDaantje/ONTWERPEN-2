@@ -1,0 +1,11 @@
+1. 
+Properties: Datum, Film, Prijs
+Methodes: gescant worden, Verlopen worden
+
+2.
+Properties: Datum, Film, Plaats
+Methodes: Kaart kopen, Eten kopen
+
+3.
+Properties: Prijs, Naam, Zaal
+Methodes: Geluid, 3D
